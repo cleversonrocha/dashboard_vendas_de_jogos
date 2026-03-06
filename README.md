@@ -27,7 +27,7 @@ O dataset contém informações como:
 
 ## 📈 Dashboard
 
-![Dashboard](dashboard_vendas_de_jogos.xlsx)
+[<img src="https://img.icons8.com/color/24/microsoft-excel-2019.png"/> Vendas de jogos](./dashboard_vendas_de_jogos.xlsx)
 
 O dashboard foi construído no Excel e apresenta:
 
