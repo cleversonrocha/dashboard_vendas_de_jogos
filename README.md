@@ -27,6 +27,8 @@ O dataset contém informações como:
 
 ## 📈 Dashboard
 
+![Dashboard](dashboard_vendas_de_jogos.xlsx)
+
 O dashboard foi construído no Excel e apresenta:
 
 * Quantidade de vendas por plataforma e ano
