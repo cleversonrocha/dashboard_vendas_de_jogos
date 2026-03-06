@@ -9,7 +9,7 @@ Analisar dados históricos de vendas de jogos.
 ## 📁 Dataset
 
 Fonte dos dados:
-https://www.kaggle.com/datasets/gregorut/video-game-sales
+https://www.kaggle.com/datasets/gregorut/videogamesales
 
 O dataset contém informações como:
 
