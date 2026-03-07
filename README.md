@@ -44,4 +44,4 @@ O dashboard foi construído no Excel e apresenta:
 
 ## 📷 Preview
 
-![Dashboard](dashboard_preview.png)
+
