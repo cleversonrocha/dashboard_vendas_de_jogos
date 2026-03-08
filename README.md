@@ -1,4 +1,4 @@
-# 🎮 Dashboard de venda de jogos para videogames
+# 🎮 Dashboard de vendas de jogos para videogames
 
 Projeto de análise de vendas de videogames utilizando Excel.
 
